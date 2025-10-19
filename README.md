@@ -15,6 +15,13 @@ It supports students, professionals, and lifelong learners through interactive c
 
 ## Pages
 <img width="542" height="379" alt="1e" src="https://github.com/user-attachments/assets/27e0fd04-128f-4c00-984b-3734c11eb4fb" />
+<img width="411" height="313" alt="2e" src="https://github.com/user-attachments/assets/8b4f7a1a-2ce6-4647-81ab-880e35b33dbd" />
+<img width="480" height="226" alt="3e" src="https://github.com/user-attachments/assets/0b3b9b79-2b74-475b-808f-bc51e7f7682f" />
+<img width="461" height="258" alt="4e" src="https://github.com/user-attachments/assets/a1ce9dd4-708c-4166-917b-bf88a268156f" />
+<img width="463" height="263" alt="5e" src="https://github.com/user-attachments/assets/8b8dd794-bfe0-4849-8a2d-4b2b31419af6" />
+<img width="525" height="288" alt="e6" src="https://github.com/user-attachments/assets/e56f4025-8036-4b99-a61c-24457e561613" />
+<img width="466" height="227" alt="e7" src="https://github.com/user-attachments/assets/097236b9-398e-4e96-a6f6-ef4bd3ca2365" />
+<img width="543" height="251" alt="e8" src="https://github.com/user-attachments/assets/9fb73f76-b0e1-4642-a690-df6a1084cf2d" />
 
 ---
 
