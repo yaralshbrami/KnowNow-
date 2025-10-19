@@ -71,11 +71,4 @@ The system follows a **3-tier architecture**:
 2. **Application Layer:** Handles business logic and interactions.  
 3. **Data Layer:** Manages and retrieves data from the database.
 
----
-
-## 🧰 Tech Stack 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** (Add your backend technology — e.g., PHP / Python / Node.js)  
-- **Database:** MySQL (or specify actual DB used)  
-- **Design Tools:** Canva (Wireframes), Figma (Professional Layouts)
 
